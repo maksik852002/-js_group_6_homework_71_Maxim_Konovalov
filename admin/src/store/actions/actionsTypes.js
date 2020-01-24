@@ -1,0 +1,14 @@
+export const DISH_REQUEST = "DISH_REQUEST";
+export const DISH_SUCCESS = "DISH_SUCCESS";
+export const DISH_FAILURE = "DISH_FAILURE";
+
+export const FORM_REQUEST = "FORM_REQUEST";
+export const FORM_SUCCESS = "FORM_SUCCESS";
+export const FORM_FAILURE = "FORM_FAILURE";
+
+export const ORDERS_REQUEST = "ORDERS_REQUEST";
+export const ORDERS_SUCCESS = "ORDERS_SUCCESS";
+export const ORDERS_FAILURE = "ORDERS_FAILURE";
+
+export const VALUE_CHANGE = "VALUE_CHANGE";
+export const VALUE_CLEAR = "VALUE_CLEAR";
